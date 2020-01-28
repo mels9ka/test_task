@@ -6,4 +6,8 @@ After this run migrations:
 
 Command for send money on bank account:
 (from docker container)
-php yii prize-order/pay {N}
+- php yii prize-order/pay {N}
+
+ Test user:
+- login: user_test
+- password: password_test
